@@ -182,4 +182,3 @@ ucs = uniformCostSearch
 ehc = enforcedHillClimbing
 bae = bidirectionalAStarEnhanced
 
-
